@@ -1,0 +1,17 @@
+# How to configure a Pix key
+
+This documentation is a tutorial of how to configure a Pix key.
+
+----------------------------------------
+
+1. Open the bank application of your choice.
+2. Press the Pix icon on the action menu.
+3. Select the option "Register new key".
+4. Select one of the options to use as Pix key:
+   * CPF
+   * Random Key
+   * Phone number
+   * E-mail
+> A common client can have up to **5** different Pix keys per account and a juridical person can have up to **20** different Pix keys per account. It is **not** possible to use the same Pix key for different accounts or banks.
+5. Insert the selected Pix key and confirm.
+> If you choose phone number or e-mail as Pix key, it is necessary to type the **verification code** sent to you to complete the operation.
